@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AddAnswearForm /> To match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-AxgMl dqhpcW"
+  >
+    <h2>
+      Test question?
+    </h2>
+    <form
+      data-testid="form"
+    >
+      <input
+        class="sc-AxjAm gqNWIl"
+        data-testid="text-input"
+        placeholder="Answear"
+        required=""
+        value=""
+      />
+      <button
+        class="sc-AxirZ defsjn"
+      >
+        Save
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<BigButton /> To match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-AxgMl dqhpcW"
+  >
+    <h2>
+      Test question?
+    </h2>
+    <form
+      data-testid="form"
+    >
+      <input
+        class="sc-AxjAm gqNWIl"
+        data-testid="text-input"
+        placeholder="Answear"
+        required=""
+        value=""
+      />
+      <button
+        class="sc-AxirZ defsjn"
+      >
+        Save
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
